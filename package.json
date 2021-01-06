@@ -20,7 +20,7 @@
     "@ckeditor/ckeditor5-theme-lark": "^19.1.0",
     "@ckeditor/ckeditor5-upload": "^19.0.1",
     "@ckeditor/ckeditor5-vue": "^1.0.1",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "ckeditor4-vue": "^1.0.0",
     "ckeditor5-vuejs": "^1.0.18",
     "core-js": "^3.6.4",
